@@ -1,0 +1,11 @@
+body {
+  background: #f5f5f5;
+  width: 100%;
+}
+
+h2.intro, p.intro, img.intro {
+  font-family: 'Fondamento';
+  background: #bbb;
+  margin: 30px;
+  width: 90%;
+}
