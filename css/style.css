@@ -3,9 +3,13 @@ body {
   width: 100%;
 }
 
-h2.intro, p.intro, img.intro {
+.intro {
   font-family: 'Fondamento';
   background: #bbb;
   margin: 30px;
   width: 90%;
+}
+
+.intro img {
+  width: 100%;
 }
